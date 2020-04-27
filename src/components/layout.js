@@ -11,8 +11,8 @@ const Layout = ({ location, title, children }) => {
     header = (
       <h1
         style={{
-          ...scale(1.5),
-          marginBottom: rhythm(1.5),
+          ...scale(1.0),
+          marginBottom: rhythm(1.0),
           marginTop: 0,
         }}
       >
@@ -29,7 +29,7 @@ const Layout = ({ location, title, children }) => {
     )
   } else {
     header = (
-      <h3
+      <h2
         style={{
           fontFamily: `Montserrat, sans-serif`,
           marginTop: 0,
@@ -44,7 +44,7 @@ const Layout = ({ location, title, children }) => {
         >
           {title}
         </Link>
-      </h3>
+      </h2>
     )
   }
   return (
@@ -62,6 +62,8 @@ const Layout = ({ location, title, children }) => {
         © {new Date().getFullYear()}, Built with
         {` `}
         <a href="https://ipfs.io/">IPFS</a>
+        <a href="https://gatsby.com/">Gatsby</a>
+        <a href="https://fleek.co//">Fleek</a>
       </footer>
     </div>
   )
