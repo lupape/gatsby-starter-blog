@@ -50,6 +50,7 @@ const Layout = ({ location, title, children }) => {
   return (
     <div
       style={{
+        fontFamily: `Montserrat, sans-serif`,
         marginLeft: `auto`,
         marginRight: `auto`,
         maxWidth: rhythm(24),
@@ -63,8 +64,6 @@ const Layout = ({ location, title, children }) => {
         {` `}
         <a href="https://ipfs.io/">IPFS</a>
 
-      <script src="https://www.retainable.io/assets/retainable/rss-embed/retainable-rss-embed.js">
-      </script>
       </footer>
     </div>
   )

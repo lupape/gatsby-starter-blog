@@ -5,8 +5,8 @@ module.exports = {
       name: `Paulo Perez`,
       summary: `who lives in Switzerland and is trying to find out how the internet can become more decentralized.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `places to drop ideas projects or news`,
+    siteUrl: `https://lupape.com/`,
     social: {
       twitter: `lupape`,
     },
