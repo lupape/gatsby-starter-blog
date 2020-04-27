@@ -42,8 +42,7 @@ const BlogIndex = ({ data, location }) => {
       })}
     </Layout>
   )
-  <script src="https://www.retainable.io/assets/retainable/rss-embed/retainable-rss-embed.js">
-  </script>
+
 }
 
 export default BlogIndex
@@ -70,6 +69,6 @@ export const pageQuery = graphql`
         }
       }
     }
-
+    
   }
 `

@@ -62,8 +62,9 @@ const Layout = ({ location, title, children }) => {
         © {new Date().getFullYear()}, Built with
         {` `}
         <a href="https://ipfs.io/">IPFS</a>
-        <a href="https://gatsby.com/">Gatsby</a>
-        <a href="https://fleek.co//">Fleek</a>
+
+      <script src="https://www.retainable.io/assets/retainable/rss-embed/retainable-rss-embed.js">
+      </script>
       </footer>
     </div>
   )
