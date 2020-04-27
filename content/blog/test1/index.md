@@ -1,13 +1,25 @@
 ---
-title: Portfolio Test 1
+title: Paratii
 date: "2020-05-27T10:33:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description: Decentralised video, before it went mainnet.
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
 Duden flows by their place and supplies it with the necessary regelialia.
+
+<div id="retainable-rss-embed"
+data-rss="https://medium.com/feed/retainable,
+https://medium.com/feed/vue-mastery"
+data-maxcols="3"
+data-layout="grid"
+data-poststyle="inline"
+data-readmore="Read the rest"
+data-buttonclass="btn btn-primary"
+data-offset="-100"></div>
+
+<script src="https://www.retainable.io/assets/retainable/rss-embed/retainable-rss-embed.js"></script>
 
 ## On deer horse aboard tritely yikes and much
 
