@@ -37,8 +37,9 @@ const Layout = ({ location, title, children }) => {
       >
         <Link
           style={{
+            fontFamily: `Montserrat, sans-serif`
             boxShadow: `none`,
-            color: `inherit`,
+            
           }}
           to={`/`}
         >
