@@ -7,8 +7,7 @@ description: Decentralised video, before it went mainnet.
 Decentralising video and putting revenue in control of content producers.
 
 <div id="retainable-rss-embed"
-data-rss="https://medium.com/feed/paratii,
-https://medium.com/feed/vue-mastery"
+data-rss="https://medium.com/feed/paratii"
 data-maxcols="3"
 data-layout="grid"
 data-poststyle="inline"
@@ -16,7 +15,6 @@ data-readmore="Read the rest"
 data-buttonclass="btn btn-primary"
 data-offset="-100"></div>
 
-<script src="https://www.retainable.io/assets/retainable/rss-embed/retainable-rss-embed.js"></script>
 
 ## On deer horse aboard tritely yikes and much
 
@@ -115,3 +113,6 @@ to its own, safe country. But nothing the copy said could convince her and so it
 didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
 with Longe and Parole and dragged her into their agency, where they abused her
 for their projects again and again.
+
+
+<script src="https://www.retainable.io/assets/retainable/rss-embed/retainable-rss-embed.js"></script>
