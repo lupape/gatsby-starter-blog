@@ -68,5 +68,7 @@ export const pageQuery = graphql`
         }
       }
     }
+    <script src="https://www.retainable.io/assets/retainable/rss-embed/retainable-rss-embed.js">
+    </script>
   }
 `
