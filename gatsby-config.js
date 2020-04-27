@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Lupape Stuffs`,
+    title: `Lupape Projects`,
     author: {
       name: `Paulo Perez`,
       summary: `who lives in Switzerland and is trying to find out how the internet can become more decentralized.`,
