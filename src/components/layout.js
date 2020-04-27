@@ -60,7 +60,7 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Built with
+        © {new Date().getFullYear()}, Hosted P2P with
         {` `}
         <a href="https://ipfs.io/">IPFS</a>
 
