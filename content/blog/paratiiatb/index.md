@@ -1,6 +1,5 @@
 ---
 title: Paratii & Around The Block
-date: "2020-05-27T10:33:32.169Z"
 description: Decentralised video, before it went mainnet.
 ---
 
