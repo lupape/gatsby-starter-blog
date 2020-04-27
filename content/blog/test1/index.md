@@ -4,13 +4,10 @@ date: "2020-05-27T10:33:32.169Z"
 description: Decentralised video, before it went mainnet.
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+Decentralising video and putting revenue in control of content producers.
 
 <div id="retainable-rss-embed"
-data-rss="https://medium.com/feed/retainable,
+data-rss="https://medium.com/feed/paratii,
 https://medium.com/feed/vue-mastery"
 data-maxcols="3"
 data-layout="grid"
