@@ -1,5 +1,7 @@
 ---
 title: Doubleleft
+description: A High-End Production Co.
+date: "2020-05-01T17:35:32.169Z"
 ---
 
 ## A High-End Production Co.

@@ -39,7 +39,7 @@ const Layout = ({ location, title, children }) => {
           style={{
             fontFamily: `Montserrat, sans-serif`
             boxShadow: `none`,
-
+            color: `inherit`,
           }}
           to={`/`}
         >

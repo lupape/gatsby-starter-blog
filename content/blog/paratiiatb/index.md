@@ -1,6 +1,7 @@
 ---
 title: Paratii & Around The Block
 description: Decentralised video, before it went mainnet.
+date: "2020-05-01T17:35:32.169Z"
 ---
 
 ##Decentralising video and putting revenue in control of content producers.
