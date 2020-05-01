@@ -11,8 +11,8 @@ const Layout = ({ location, title, children }) => {
     header = (
       <h1
         style={{
-          ...scale(1.0),
-          marginBottom: rhythm(1.0),
+          ...scale(1.5),
+          marginBottom: rhythm(1.5),
           marginTop: 0,
         }}
       >
@@ -29,7 +29,7 @@ const Layout = ({ location, title, children }) => {
     )
   } else {
     header = (
-      <h2
+      <h3
         style={{
           fontFamily: `Montserrat, sans-serif`,
           marginTop: 0,
@@ -37,7 +37,6 @@ const Layout = ({ location, title, children }) => {
       >
         <Link
           style={{
-            fontFamily: `Montserrat, sans-serif`
             boxShadow: `none`,
             color: `inherit`,
           }}
@@ -45,13 +44,12 @@ const Layout = ({ location, title, children }) => {
         >
           {title}
         </Link>
-      </h2>
+      </h3>
     )
   }
   return (
     <div
       style={{
-        fontFamily: `Montserrat, sans-serif`,
         marginLeft: `auto`,
         marginRight: `auto`,
         maxWidth: rhythm(24),
@@ -61,10 +59,9 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Hosted P2P with
+        © {new Date().getFullYear()}, Built with
         {` `}
-        <a href="https://ipfs.io/">IPFS</a>
-
+        <a href="https://www.gatsbyjs.org">Gatsby</a>
       </footer>
     </div>
   )
